@@ -1,0 +1,1 @@
+NGROK_TOKEN = "replace with your ngrok token" or you can directly write in collab (ngrok_token)
