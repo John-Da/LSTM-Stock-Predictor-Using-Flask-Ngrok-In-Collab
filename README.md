@@ -41,13 +41,8 @@ Downloading the file and opening it locally or in Google Colab is recommended.*
 ## Project Structure
 ```
 LSTM-Stock-Predictor/
-├── templates/
-│   └── index.html        # Frontend UI
-├── static/
-│   ├── style.css         # Dark theme styling
-│   └── app.js            # Chart + API logic
-├── LSTM_Stock_Predictor.ipynb   # Main Colab notebook
-└── .gitignore
+├── LSTM_Stock_Predictor.ipynb   # Main Colab notebook (already has UI)
+└── token.txt   # Your Ngrok Token -> NGROK_TOKEN = "put here"
 ```
 
 ---
@@ -57,7 +52,7 @@ LSTM-Stock-Predictor/
 ### Run in Google Colab
 1. Open the notebook in Google Colab
 2. Mount your Google Drive
-3. Add your ngrok token to `NGROK_TOKEN.txt`
+3. Add your ngrok token to `token.txt`
 4. Run all cells
 5. Open the public ngrok URL
 Then you will see the web page in a new tab. That's it.
