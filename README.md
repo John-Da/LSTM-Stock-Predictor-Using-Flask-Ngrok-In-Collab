@@ -1,6 +1,11 @@
-# LSTM Stock Predictor
+# 📈 LSTM Stock Predictor
 
-> A web application that predicts stock prices using an LSTM neural network, built with Flask and TensorFlow.
+> A stock price forecasting web app powered by an LSTM neural network,
+> built with Flask and TensorFlow that runs entirely on Google Colab.
+
+Experimenting with Google Colab as a full-stack development environment,
+where the entire UI (HTML, CSS, JS) is served directly from a Python notebook
+via Flask and exposed publicly using ngrok — no local setup required.
 
 <img src="https://github.com/John-Da/LSTM-Stock-Predictor-Using-Flask-Ngrok-In-Collab/blob/main/demo.png" alt="demo image" />
 
