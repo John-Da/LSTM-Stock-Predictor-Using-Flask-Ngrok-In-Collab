@@ -62,11 +62,6 @@ Then you will see the web page in a new tab. That's it.
 !pip3 install -q pyngrok flask flask-bootstrap yfinance numpy pandas scikit-learn tensorflow
 ```
 
-### For Ngrok, put the token to token.txt (or can change the name/variables later)
-```bash
-NGROK_TOKEN = "YOUR TOKEN FOR NGROK DASHBOARD"
-```
-
 ---
 
 ## How It Works
