@@ -2,7 +2,7 @@
 
 > A web application that predicts stock prices using an LSTM neural network, built with Flask and TensorFlow.
 
-<img src="https://github.com/John-Da/lstm-stock-predictor/blob/main/demo.png" alt="demo image" />
+<img src="https://github.com/John-Da/LSTM-Stock-Predictor-Using-Flask-Ngrok-In-Collab/blob/main/demo.png" alt="demo image" />
 
 
 ## Features
