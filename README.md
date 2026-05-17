@@ -42,7 +42,7 @@ Downloading the file and opening it locally or in Google Colab is recommended.*
 ```
 LSTM-Stock-Predictor/
 ├── LSTM_Stock_Predictor.ipynb   # Main Colab notebook (already has UI)
-└── token.txt   # Your Ngrok Token -> NGROK_TOKEN = "put here"
+└── token.txt   # Your Ngrok Token
 ```
 
 ---
