@@ -9,6 +9,14 @@ via Flask and exposed publicly using ngrok — no local setup required.
 
 <img src="https://github.com/John-Da/LSTM-Stock-Predictor-Using-Flask-Ngrok-In-Collab/blob/main/demo.png" alt="demo image" />
 
+---
+
+## ⚠️ Notice
+*UI scripts (HTML, CSS, JS) are embedded directly inside the `.ipynb` notebook cells
+and may not render correctly when viewed on GitHub.
+Downloading the file and opening it locally or in Google Colab is recommended.*
+
+---
 
 ## Features
 - Predicts stock prices for the next 7, 14, or 30 days
